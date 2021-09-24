@@ -28,5 +28,5 @@
  <a href="https://api.whatsapp.com/send/?phone=5588988329387&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "https://codepen.io/kau-maia/pen/wveEjgb"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   
-     ![Snake animation](https://github.com/rafaballerini/Kauamaiaa/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/Kauamaiaa/Kauamaiaa/blob/output/github-contribution-grid-snake.svg)
   </div>
