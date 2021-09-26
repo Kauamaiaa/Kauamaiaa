@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Trabalho com Designer
-- 🌱 Estudando: Python and JS
+- 🔭 Trabalho com Gestor de Tráfego
+- 🌱 Estudando: Python,Js e Ttypescript
 - 😄 Pronouns: ele/dela
 
 
