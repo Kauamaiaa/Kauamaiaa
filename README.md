@@ -1,8 +1,6 @@
 ## Olá me chamo Kauã Maia
 
 
-
-- 🔭 Trabalho com Gestor de Tráfego
 - 🌱 Estudando: Python,Js e Ttypescript
 - 😄 Pronouns: ele/dela
 
